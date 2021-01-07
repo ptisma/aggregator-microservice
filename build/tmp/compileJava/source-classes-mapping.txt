@@ -1,0 +1,8 @@
+com/rasus/microserviceAggregator/MicroserviceAggregatorApplication.java
+ com.rasus.microserviceAggregator.MicroserviceAggregatorApplication
+com/rasus/microserviceAggregator/services/MeasurementsService.java
+ com.rasus.microserviceAggregator.services.MeasurementsService
+com/rasus/microserviceAggregator/model/UserResponse.java
+ com.rasus.microserviceAggregator.model.UserResponse
+com/rasus/microserviceAggregator/controllers/ReadingsController.java
+ com.rasus.microserviceAggregator.controllers.ReadingsController
